@@ -1,0 +1,34 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Post 1"
+    },
+    {
+      "id": 2,
+      "title": "Post 2"
+    },
+    {
+      "id": 3,
+      "title": "Post 3"
+    }
+  ],
+   "tiger":[
+    {
+        "id": 1,
+        "name": "이순신"
+    },
+    {
+        "id": 2,
+        "name": "김순신"
+    },
+    {
+        "id": 3,
+        "name": "최순신"
+    }
+],
+  
+  "profile": {
+    "name": "typicode"
+  }
+}
