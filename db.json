@@ -3,43 +3,43 @@
      "tiger":[
       {
           "name": "강아지"
-          "age": 1,
+          "age": 11,
       },
       {
           "name": "고양이"
-          "age": 2,
+          "age": 26,
       },
       {
           "name": "토끼"
-          "age": 3,
+          "age": 33,
       },
       {
           "name": "사슴"
-          "age": 1,
+          "age": 91,
     },
     {
         "name": "호랑이"
-        "age": 1,
+        "age": 61,
     },
     {
         "name": "사자"
-        "age": 1,
+        "age": 31,
     },
     {
         "name": "코끼리"
-        "age": 1,
+        "age": 81,
     },
     {
         "name": "코뿔소"
-        "age": 1,
+        "age": 13,
     },
     {
         "name": "독수리"
-        "age": 1,
+        "age": 65,
     },
     {
         "name": "하마"
-        "age": 1,
+        "age": 56,
     },
   ],    
     "profile": {
