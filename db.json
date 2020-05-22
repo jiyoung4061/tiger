@@ -1,62 +1,48 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "Post 1"
+    
+     "tiger":[
+      {
+          "name": "강아지"
+          "age": 1,
+      },
+      {
+          "name": "고양이"
+          "age": 2,
+      },
+      {
+          "name": "토끼"
+          "age": 3,
+      },
+      {
+          "name": "사슴"
+          "age": 1,
     },
     {
-      "id": 2,
-      "title": "Post 2"
+        "name": "호랑이"
+        "age": 1,
     },
     {
-      "id": 3,
-      "title": "Post 3"
+        "name": "사자"
+        "age": 1,
+    },
+    {
+        "name": "코끼리"
+        "age": 1,
+    },
+    {
+        "name": "코뿔소"
+        "age": 1,
+    },
+    {
+        "name": "독수리"
+        "age": 1,
+    },
+    {
+        "name": "하마"
+        "age": 1,
+    },
+  ],    
+    "profile": {
+      "name": "typicode"
     }
-  ],
-   "tiger":[
-    {
-        "id": 1,
-        "name": "이순신"
-    },
-    {
-        "id": 2,
-        "name": "김순신"
-    },
-    {
-        "id": 3,
-        "name": "최순신"
-    }
-],
-  "apple":[
-    {
-        "id": 1,
-        "name": "사과1"
-    },
-    {
-        "id": 2,
-        "name": "사과2"
-    },
-    {
-        "id": 3,
-        "name": "사과3"
-    }
-],
-  "banana":[
-    {
-        "id": 1,
-        "name": "바나나1"
-    },
-    {
-        "id": 2,
-        "name": "바나나2"
-    },
-    {
-        "id": 3,
-        "name": "바나나3"
-    }
-],
-  
-  "profile": {
-    "name": "typicode"
   }
-}
