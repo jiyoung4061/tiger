@@ -1,48 +1,28 @@
 {
-    
-     "tiger":[
-      {
-          "name": "강아지",
-          "age": 11,
-      },
-      {
-          "name": "고양이",
-          "age": 26,
-      },
-      {
-          "name": "토끼",
-          "age": 33,
-      },
-      {
-          "name": "사슴",
-          "age": 91,
+  "posts": [
+    {
+      "id": 1,
+      "title": "Post 1"
     },
     {
-        "name": "호랑이",
-        "age": 61,
+      "id": 2,
+      "title": "Post 2"
     },
     {
-        "name": "사자",
-        "age": 31,
-    },
-    {
-        "name": "코끼리",
-        "age": 81,
-    },
-    {
-        "name": "코뿔소",
-        "age": 13,
-    },
-    {
-        "name": "독수리",
-        "age": 65,
-    },
-    {
-        "name": "하마",
-        "age": 56,
-    },
-  ],    
-    "profile": {
-      "name": "typicode"
+      "id": 3,
+      "title": "Post 3"
     }
+  ],
+  "tiger": [
+      { "name" : dd,
+      "age" : 14 },
+      { "name" : cc,
+      "age" : 15 },
+      { "name" : ff,
+      "age" : 34 },
+      
+  ],
+  "profile": {
+    "name": "typicode"
   }
+}
